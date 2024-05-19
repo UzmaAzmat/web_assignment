@@ -1,0 +1,33 @@
+#A1{
+    width: 500px;
+}
+#A2{
+    width: 243px;
+}
+#A3{
+    width: 157px;
+
+}
+#A4{
+    width: 100px;
+}
+#A5{
+    width: 500px;
+    height: 150px;
+}
+#A6{
+    color: white;
+    background-color: green;
+    border: green;
+    height: 30px;
+    
+}
+#A7{
+    border: 1px solid gray;
+    width: 500px;
+    padding: 20px;
+    background-color: gray;
+}
+.input:hover{
+    border-color: lightskyblue;
+}

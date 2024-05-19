@@ -1,0 +1,60 @@
+#A1{
+	margin-top: 65px;
+	margin-left: 400px;
+}
+#A2{
+	border: 1px solid white;
+	width: 300px;
+	background-color: white;
+	display: flex;
+	
+}
+#button1{
+	background-color: transparent;
+	border: transparent;
+	padding: 20px;
+}
+#input{
+	width: 86px;
+}
+#paragraph{
+	border: 1px solid white;
+	background-color: white;
+	width: 750px;
+	
+	
+}
+#A5{
+	border: 1px solid black;
+	width: 500px;
+}
+#container1{
+	border: 1px solid black;
+	padding: 10px;
+	background-color: black;
+	color: white;
+}
+#container2{
+	border: 1px solid black;
+	padding: 10px;
+}
+#container3{
+	border: 1px solid black;
+	
+}
+#container4{
+	border: 1px solid black;
+	padding: 10px;
+	width: 800px;
+}
+#A8{
+	display: flex;
+    padding: 20px;
+	column-gap: 20px;
+	margin-left: 300px;
+}
+#A9{
+	padding: 4px;
+	width: 190px;
+	
+}
